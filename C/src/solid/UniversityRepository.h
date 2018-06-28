@@ -1,0 +1,11 @@
+#ifndef SRC_SOLID_UNIVERSITYREPOSITORY_H_
+#define SRC_SOLID_UNIVERSITYREPOSITORY_H_
+
+struct UniversityRepository
+{
+
+};
+
+
+
+#endif /* SRC_SOLID_UNIVERSITYREPOSITORY_H_ */
